@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react'
 // If you rename the repo, update this and redeploy.
 export default defineConfig({
   plugins: [react()],
-  base: '/trading-journal/',
+  base: '/rugpull/',
 })
